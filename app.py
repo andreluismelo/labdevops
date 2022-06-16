@@ -7,7 +7,7 @@ csrf = CSRFProtect(app)
 
 @app.route("/")
 def pagina_inicial():
-    return "Hello FIAP - Second Deploy"
+    return "Hello FIAP - Video Final"
 
 
 if __name__ == '__main__':
